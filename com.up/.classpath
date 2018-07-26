@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/fluent-hc-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/httpclient-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/httpclient-cache-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/httpclient-win-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/httpcore-4.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/httpmime-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jiayu/eclipse-workspace/com.up/lib/guava-19.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
